@@ -15,6 +15,8 @@ public class InitGitClass {
 
     public static void main(String[] args) {
         System.out.println("初始化git");
+
+        System.out.println("二次提交");
     }
 
 }

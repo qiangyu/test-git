@@ -25,6 +25,8 @@ public class InitDevClass {
         System.out.println("添加点赞功能");
 
         System.out.println("添加评论功能");
+
+        System.out.println("添加收藏功能");
     }
 
 }

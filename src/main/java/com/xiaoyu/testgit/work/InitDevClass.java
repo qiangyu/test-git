@@ -19,6 +19,8 @@ public class InitDevClass {
         System.out.println("添加登录功能");
 
         System.out.println("添加注册功能");
+
+        System.out.println("添加发帖功能");
     }
 
 }

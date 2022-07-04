@@ -14,5 +14,7 @@ package com.xiaoyu.testgit.work;
 public class BiaoGuoClass {
     public static void main(String[] args) {
         System.out.println("彪锅写的垃圾代码");
+
+        System.out.println("新写的BUG");
     }
 }

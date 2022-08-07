@@ -15,6 +15,8 @@ public class Test {
 
     public static void main(String[] args) {
         System.out.println("create");
+
+        System.out.println("check");
     }
 
 }
